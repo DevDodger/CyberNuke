@@ -44,7 +44,9 @@ This bot was made for testing and educational purposes, Anything that happens to
 
 ## Contact Us
 [Website](Https://cyberblu.xyz)
+##
 [Discord](https://discord.gg/az7n3TAk5r)
+##
 Lead Developer contact :
 ####
            adminjacks#0046
