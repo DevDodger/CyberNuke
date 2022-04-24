@@ -4,7 +4,7 @@
 | ------------- | 
 | ![CyberNuke](https://cdn.discordapp.com/attachments/921216391074443314/967877663362531368/image_56.png) |
 
-![](https://img.shields.io/github/watchers/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/stars/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/forks/17teen/Discord-Presser-Server-Nuker?style=social)
+![](https://img.shields.io/github/watchers/DevDodger/CyberNuke?style=social) ![](https://img.shields.io/github/stars/DevDodger/CyberNuke?style=social) ![](https://img.shields.io/github/forks/DevDodger/CyberNuke?style=social)
 
 ## Features:
 1. `Mass Pings`
