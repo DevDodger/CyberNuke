@@ -43,7 +43,7 @@
 This bot was made for testing and educational purposes, Anything that happens to your servers WILL NOT be restored and CAN NOT, We are not heald accountable for your mistake.
 
 ## Contact Us
-[Website](Https://cyberblu.xyz)
+[Website](https://www.cyberblu.xyz/home)
 ##
 [Discord](https://discord.gg/az7n3TAk5r)
 ##
